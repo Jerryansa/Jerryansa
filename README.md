@@ -1,4 +1,4 @@
-<h1>Hi, I'm Jerry! </h1>
+<h1>Hi, I'm Jerry!  <br/><a href="https://github.com/Jerryansa">Cybersecurity Student</a></h1>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
