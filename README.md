@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects/ Coding Projects:</h2>
 
 - <b>Live-Azure-Honeypot-SOC-Cyber-Attacks-in-Real-Time</b>
-  - [Azure-Honeypot-SOC]([https://github.com/joshmadakor1/Algorithms-Practice](https://github.com/Jerryansa/Live-Azure-Honeypot-SOC-Cyber-Attacks-in-Real-Time))
+  - [Azure-Honeypot-SOC](https://github.com/Jerryansa/Live-Azure-Honeypot-SOC-Cyber-Attacks-in-Real-Time)</b>
 - <b>Python Lab(Classes and Inheritance)</b>
   - [University Management System(Python Lab)](https://github.com/Jerryansa/Python---Coding---Lab) <b><i></b></i>
 
